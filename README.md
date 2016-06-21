@@ -281,7 +281,9 @@ For image posts:
 [[+originalAuthor]]
 [[+originalUsername]]
 [[+originalId]]
-```
+[[+mediaThumb]]
+[[+mediaSmall]]
+mediaThumb```
 
 #### Vimeo:
 
